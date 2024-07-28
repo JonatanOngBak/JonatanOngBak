@@ -16,7 +16,7 @@ class Programmer
 <h4 align="left">Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Administração de Sistemas e Desenvolvimento Back-End. Sempre busco aprender novas tecnologias e melhorar minhas habilidades para criar soluções eficientes e inovadoras.</h4>
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=JonathanOngBak" alt="JonathanOngBak" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JonatanOngBak" alt="JonatanOngBak" /> </p>
 
 
 
