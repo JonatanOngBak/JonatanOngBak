@@ -3,12 +3,12 @@
 ```python 
 class Programmer
 
-	def initialize() 
+	Def Initialize() 
 ```
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/jonatan-fernandes/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>
+    <a href="https://www.linkeDin.com/in/jonatan-fernandes/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>
     <a href=https://www.dio.me/users/jonathanfds2007/ target="_blank"><img align="center" src=https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/r0rx7o4jm6jy2uvzt7xk height="30" width="40" /></a>
     
 </p>
@@ -52,6 +52,3 @@ class Programmer
   
 </div>
 
-```python
-
-```
